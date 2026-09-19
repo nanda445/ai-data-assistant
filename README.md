@@ -17,6 +17,9 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 <img width="1916" height="892" alt="image" src="https://github.com/user-attachments/assets/afaba67e-6d9a-458d-9c05-a7f38c9bf782" />
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/cc6c6a9b-7306-4ffc-ab3c-9c70b399a844" />
+
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f5788b71-3b64-44b3-bac4-6383d0da8174" />
 
 
